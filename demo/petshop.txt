@@ -1,1 +1,3 @@
 tạo mới 1 controller rồi chỉnh sửa các thứ
+
+người khác cũng làm gì đó trên file này
